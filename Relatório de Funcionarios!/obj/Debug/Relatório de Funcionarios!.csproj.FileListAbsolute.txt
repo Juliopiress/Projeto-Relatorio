@@ -1,0 +1,33 @@
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.exe.config
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.Form1.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.FrmSetores.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.Properties.Resources.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.GenerateResource.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Minhas Programação\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.exe.config
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.Form1.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.FrmSetores.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.Properties.Resources.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.GenerateResource.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.exe.config
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\bin\Debug\Relatório de Funcionarios!.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.Frm_Relatorio.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.FrmSetores.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório_de_Funcionarios_.Properties.Resources.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.GenerateResource.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Projeto Relatorio FIM\Relatório de Funcionarios!\obj\Debug\Relatório de Funcionarios!.pdb
